@@ -140,10 +140,10 @@ function initCanvas() {
     if (!window.glslGallery_canvas) {
         var canvas = document.createElement('canvas');
         canvas.setAttribute('class', 'glslGallery_canvas');
-        canvas.style.width = '500px';
-        canvas.style.height = '500px';
-        canvas.width = '500px';
-        canvas.height = '500px';
+        canvas.style.width = '250px';
+        canvas.style.height = '250px';
+        canvas.width = '250px';
+        canvas.height = '250px';
         window.glslGallery_canvas = new GlslCanvas(canvas);
     }
 }

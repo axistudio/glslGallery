@@ -24,8 +24,8 @@
 }
 
 .glslGallery {
-    -moz-column-width: 145em;
-    -webkit-column-width: 145em;
+    -moz-column-width: 15em;
+    -webkit-column-width: 15em;
 }
 
 @import '_item';
